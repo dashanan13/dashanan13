@@ -27,7 +27,7 @@ I have had many roles in my decade long career ranging from support engineer to 
 I have been delivering cloud projects both infrastructure and data for over half a decade now with a few cents of devops expertise.
 My latest endevor is towards mobile blockchain revolution and how can they make IOT more, well, reliable and accessible. 
 
-Github keeps a lot of my tech secrets and i love it for that, its an amazing platform.
+Github keeps a lot of my tech absurdity and i love it for that, its an amazing platform to learn and show.
 
 [![Flutter Developer](https://img.shields.io/badge/Flutter-Developer-brightgreen?colorA=46d1fd&colorB=1389FD&style=for-the-badge)][n] 
 [![Devops Expert](https://img.shields.io/badge/Devops-Expert-brightgreen?colorA=a12b8a&colorB=6A788D&style=for-the-badge)][d]
