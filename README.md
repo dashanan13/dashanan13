@@ -37,6 +37,7 @@ Github keeps a lot of my tech secrets and i love it for that, its an amazing pla
 
 [![Learning IIOT](https://img.shields.io/badge/Learning-IITO-brightgreen?colorA=f47c7c&colorB=70a1d7&style=for-the-badge)][v] 
 [![Learning BlockChain](https://img.shields.io/badge/Learning-BlockChain-brightgreen?colorA=f47c7c&colorB=b0ddf9&style=for-the-badge)][v] 
+[![Learning Guitar](https://img.shields.io/badge/Learning-Guitar-brightgreen?colorA=f47c7c&colorB=a1de93&style=for-the-badge)][v] 
 
 [s]: https://www.linkedin.com/in/mohitsharma13/
 [n]: https://www.linkedin.com/in/mohitsharma13/
