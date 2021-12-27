@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 <div align="left">
-    <p><a href="https://twitter.com/absolutesurd13"><img alt="Twitter @absolutesurd13" align="center" src="https://img.shields.io/badge/-%40absolutesurd13-blue?&style=for-the-badge" /></a>&nbsp;<small> <strong>Follow me! on Twitter</strong> </small></p>
+    <p><a href="https://twitter.com/eternaldistinct"><img alt="Twitter @eternaldistinct" align="center" src="https://img.shields.io/badge/-%40eternaldistinct-blue?&style=for-the-badge" /></a>&nbsp;<small> <strong>Follow me! on Twitter</strong> </small></p>
     <p><a href="https://www.linkedin.com/in/mohitsharma13/"><img alt="https://www.linkedin.com/in/mohitsharma13/" align="center" src="https://img.shields.io/badge/-mohitsharma13-brightgreen?&style=for-the-badge" /></a>&nbsp;<small><strong>Connect on LinkedIn!</strong> </small></p>
 </div>
 
